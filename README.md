@@ -1,7 +1,3 @@
-Here’s a sample README for your "Realtime Translator" React project:
-
----
-
 # Realtime Translator
 
 A real-time translation application built with React. This project allows users to input text in one language and instantly translate it into another language using an API. It supports multiple languages and provides a seamless user experience with live translation results.
@@ -66,6 +62,3 @@ Open your browser and go to `http://localhost:3000` to see the app in action.
 - The translation API used in this project.
 - React community for building such an amazing library.
 
----
-
-Feel free to adjust any details, especially the API key instructions or specific libraries if you're using something else!
